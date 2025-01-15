@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
